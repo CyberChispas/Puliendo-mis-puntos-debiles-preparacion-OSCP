@@ -10,10 +10,11 @@ Este repositorio es mi bitácora para registrar la resolución de esos puntos d�
 
 ## 🏎️ FASE 1: Plan de Nivelación Personal (Puliendo Puntos Débiles)
 
-### 🗄️ Bloque 1: SQL & Seguridad Web (En Proceso)
-- [ ] **W3Schools (SQL Tutorial):** Estudio de estructuras esenciales (`SELECT`, `WHERE`, `AND/OR`, `ORDER BY`, `UNION`, `INSERT`).
-- [ ] **PortSwigger Web Security Academy:** Resolución de laboratorios prácticos de SQL Injection de forma manual modificando parámetros y empleando Burp Suite.
-- [ ] **DVWA (Damn Vulnerable Web Application):** Despliegue de laboratorio local en Kali Linux para consolidar ataques SQLi manuales en niveles Low y Medium.
+### 🗄️ Bloque 1: SQL & Seguridad Web ✅ (Completado )
+> 📝 **Apuntes detallados:** He documentado toda la teoría y comandos clave de este bloque en este documento: [👉 Ver apuntes de SQLi](https://github.com/CyberChispas/Apuntes/blob/main/sqli.md)
+- [x] **W3Schools (SQL Tutorial):** Estudio de estructuras esenciales (`SELECT`, `WHERE`, `AND/OR`, `ORDER BY`, `UNION`, `INSERT`).
+- [x] **PortSwigger Web Security Academy:** Resolución de laboratorios prácticos de SQL Injection de forma manual modificando parámetros y empleando Burp Suite.
+- [x] **DVWA (Damn Vulnerable Web Application):** Despliegue de laboratorio local en Kali Linux para consolidar ataques SQLi manuales en niveles Low y Medium.
 
 ### 🐧 Bloque 2: Bash & PowerShell
 - [ ] **OverTheWire (Bandit):** Superación de los niveles 0 al 25 para dominar la CLI bajo presión (`grep`, `awk`, `find`, `cut`, `sort`).
